@@ -9,7 +9,7 @@ A customizable Neumorphic-style Floating Action Button (FAB) with radially expan
 ## Demo
 
 <p align="center">
-  <img src="example.gif" alt="Neumorphic Radial FAB Demo">
+  <img src="example.gif" alt="Neumorphic Radial FAB Demo" width="350">
 </p>
 
 ## ✨ Features
